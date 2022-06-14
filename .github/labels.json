@@ -1,0 +1,96 @@
+[
+    {
+        "name": "area:doc",
+        "description": "",
+        "color": "286dbc",
+        "aliases": ["documentation"]
+    },
+    {
+        "name": "area:ci",
+        "description": "",
+        "color": "5729b8"
+    },
+    {
+        "name": "area:code",
+        "description": "",
+        "color": "1d76db"
+    },
+    {
+        "name": "area:repo",
+        "description": "",
+        "color": "0052cc"
+    },
+    {
+        "name": "status:duplicate",
+        "description": "",
+        "color": "ccc1b7",
+        "aliases": ["duplicate"]
+    },
+    {
+        "name": "status:invalid",
+        "description": "",
+        "color": "5b5b5b",
+        "aliases": ["invalid"]
+    },
+    {
+        "name": "status:wontfix",
+        "description": "",
+        "color": "cfd3d7",
+        "aliases": ["wontfix"]
+    },
+    {
+        "name": "status:abandoned",
+        "description": "",
+        "color": "404040",
+        "aliases": ["wontfix"]
+    },
+    {
+        "name": "state:blocked",
+        "description": "",
+        "color": "d73a4a"
+    },
+    {
+        "name": "state:pending",
+        "description": "",
+        "color": "fab41d"
+    },
+    {
+        "name": "state:approved",
+        "description": "",
+        "color": "91ca55"
+    },
+    {
+        "name": "type:refactor",
+        "description": "",
+        "color": "235683",
+        "aliases": ["refactor"]
+    },
+    {
+        "name": "type:question",
+        "description": "",
+        "color": "cc317c",
+        "aliases": ["question"]
+    },
+    {
+        "name": "type:suggestion",
+        "description": "",
+        "color": "819bca"
+    },
+    {
+        "name": "type:chroe",
+        "description": "",
+        "color": "fef2c0"
+    },
+    {
+        "name": "type:bug",
+        "description": "",
+        "color": "d73a4a",
+        "aliases": ["bug"]
+    },
+    {
+        "name": "type:feature",
+        "description": "",
+        "color": "5ebeff",
+        "aliases": ["enhancement"]
+    }
+]
