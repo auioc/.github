@@ -4,7 +4,7 @@
 
 <div align="center">
   
-Public key: [pubkey.asc](https://raw.githubusercontent.com/auioc/auioc/main/signature/release_signing/pubkey.asc)
+Public key: [pubkey.asc](https://raw.githubusercontent.com/auioc/auioc/main/signature/release_signing/pubkey.asc) ([keys.openpgp](https://keys.openpgp.org/vks/v1/by-fingerprint/ECCDF57F0F8775CE06488CD349313E51D24B131B))
 &nbsp;&nbsp;
 Key ID: `D24B131B`
 <br/>
