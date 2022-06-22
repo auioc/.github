@@ -21,6 +21,11 @@
         "color": "0052cc"
     },
     {
+        "name": "area:upstream",
+        "description": "",
+        "color": "036c95"
+    },
+    {
         "name": "status:duplicate",
         "description": "",
         "color": "ccc1b7",
