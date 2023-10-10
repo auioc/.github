@@ -1,4 +1,4 @@
-<img align='left' src='github-metrics.svg'>
+<img align='left' src='https://github.com/auioc/.github/raw/main/profile/github-metrics.svg'>
 
 # AUIOC
 
