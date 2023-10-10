@@ -34,10 +34,10 @@ jobs:
                   plugin_languages_sections: most-used
                   plugin_languages_threshold: 0%
 
-            - name: Adjust output
+            - name: Process output
               run: |
-                  cp /metrics_renders/* ./
-                  sed -i 's/[0-9]*\s*members/No public members/g' github-metrics.svg
+                  cp /metrics_renders/github-metrics.svg ./profile/
+                  sed -i 's/[0-9]*\s*members/No public members/g' profile/github-metrics.svg
 
             - name: Commit to the repo
               run: |
