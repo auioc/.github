@@ -1,8 +1,8 @@
 <img align='left' src='https://github.com/auioc/.github/raw/main/profile/github-metrics.svg'>
 
-# AUIOC
+### AUIOC
 
-#### Release Assets GPG Signature</h4>
+#### Release Assets GPG Signature
  
 Public key: [pubkey.asc](https://raw.githubusercontent.com/auioc/auioc/main/signature/release_signing/pubkey.asc) ([keys.openpgp](https://keys.openpgp.org/vks/v1/by-fingerprint/ECCDF57F0F8775CE06488CD349313E51D24B131B))
 <br/>
